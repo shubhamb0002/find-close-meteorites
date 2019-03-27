@@ -5,4 +5,9 @@ A project that uses NASA data and python to find the nearest meteorites landing 
 ## Running
 This project requires Python 3 and requests package.
 
-'python3 find_meteors.py'
+First install pipenv, Then:
+
+```
+pipenv install
+pipenv run "Python find_meteors.py"
+```
